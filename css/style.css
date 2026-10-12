@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 6px;
+}
+
+.judul {
+    display: inline-block;
+    min-width: 140px;
+}
+
+input[type="text"], input[type="number"], select {
+    padding: 4px;
+}
+
+button {
+    padding: 6px 16px;
+    cursor: pointer;
+}
+/* Boleh ya kalo mau CSS nya dibuat cantik hehehe */
